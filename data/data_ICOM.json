@@ -1,4 +1,4 @@
-﻿{
+{
    "s1":[
       [
          "Programación",
@@ -197,15 +197,6 @@
    ],
    "s5":[
       [
-         "Gestión de investigación de operaciones",
-         "ICS010",
-         4,
-         "ICOM",
-         [
-            "MATE26"
-         ]
-      ],
-      [
          "Ingeniería economica",
          "ICS009",
          3,
@@ -336,12 +327,12 @@
          ]
       ],
       [
-         "Gestión de operaciones",
-         "ICS020",
+         "Gestión de investigación de operaciones",
+         "ICS010",
          4,
          "ICOM",
          [
-            "ICS010"
+            "MATE26"
          ]
       ],
       [
@@ -401,6 +392,15 @@
          ]
       ],
       [
+         "Gestión de operaciones",
+         "ICS020",
+         4,
+         "ICOM",
+         [
+            "ICS010"
+         ]
+      ],
+	  [
          "Inglés conversación II",
          "HCW326",
          2,
