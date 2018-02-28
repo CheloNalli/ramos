@@ -197,15 +197,6 @@
    ],
    "s5":[
       [
-         "Gestión de investigación de operaciones",
-         "ICS010",
-         4,
-         "ICOM",
-         [
-            "MATE26"
-         ]
-      ],
-      [
          "Ingeniería economica",
          "ICS009",
          3,
@@ -318,6 +309,15 @@
    ],
    "s7":[
       [
+         "Gestión de investigación de operaciones",
+         "ICS010",
+         4,
+         "ICOM",
+         [
+            "MATE26"
+         ]
+      ],
+      [
          "Evaluación de proyectos generales",
          "ICS019",
          3,
@@ -333,15 +333,6 @@
          "ICOM",
          [
             "ICS014"
-         ]
-      ],
-      [
-         "Gestión de operaciones",
-         "ICS020",
-         4,
-         "ICOM",
-         [
-            "ICS010"
          ]
       ],
       [
@@ -388,6 +379,15 @@
          "ICS801",
          3,
          "ICOM"
+      ],
+      [
+         "Gestión de operaciones",
+         "ICS020",
+         4,
+         "ICOM",
+         [
+            "ICS010"
+         ]
       ],
       [
          "Gestión estratégica",
